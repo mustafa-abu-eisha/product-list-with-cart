@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL Here](https://github.com/AbuEisha/product-list-with-cart)
+- [Solution URL Here](https://github.com/mustafa-abu-eisha/product-list-with-cart)
 - [Live Site URL Here](https://product-list-with-cart-live.pages.dev/)
 
 ## My process
@@ -48,4 +48,4 @@ Users should be able to:
 
 ## Author
 
-- [Frontend Mentor Profile](https://www.frontendmentor.io/profile/AbuEisha)
+- [Frontend Mentor Profile](https://www.frontendmentor.io/profile/mustafa-abu-eisha)
